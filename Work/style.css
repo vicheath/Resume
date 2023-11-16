@@ -1,0 +1,53 @@
+body{
+   background-color: #D88C9A;
+}
+
+.main_container{
+   background-color: rgb(167, 167, 164);
+   margin-left: 4%;
+   margin-right: 4%;
+   margin-bottom: 4%
+}
+
+span{
+   font-weight: bold;
+}
+
+.section1{
+   margin-top: 40px;
+   display: flex;
+   flex-wrap: wrap;
+}
+
+
+.headstamp{
+   display: flex;
+   flex-direction: row;
+   justify-content: space-evenly;
+}
+
+.box1{
+   display: flex; 
+   flex-direction:column;
+   width: 400px;
+   height: 300px;
+   
+}
+
+.avi{
+   width: 60%;
+   height: 68%;
+}
+
+.box2{
+   width: 400px;
+}
+
+
+.local{
+   margin-top: -15px;
+}
+
+.sub_container{
+   display: flex;
+}
